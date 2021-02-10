@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Test/1.0.0": {
         "dependencies": {
-          "Cison.Security.Encription": "1.0.2",
+          "Cison.Security.Encription": "1.0.3",
           "MSTest.TestAdapter": "2.1.1",
           "MSTest.TestFramework": "2.1.1",
           "Microsoft.NET.Test.Sdk": "16.7.1",
@@ -1071,7 +1071,7 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "Cison.Security.Encription/1.0.2": {
+      "Cison.Security.Encription/1.0.3": {
         "runtime": {
           "Encryption.dll": {}
         }
@@ -1693,7 +1693,7 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "Cison.Security.Encription/1.0.2": {
+    "Cison.Security.Encription/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

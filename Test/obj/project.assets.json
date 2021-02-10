@@ -1635,7 +1635,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Cison.Security.Encription/1.0.2": {
+      "Cison.Security.Encription/1.0.3": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
@@ -5717,7 +5717,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Cison.Security.Encription/1.0.2": {
+    "Cison.Security.Encription/1.0.3": {
       "type": "project",
       "path": "../Encryption/Encryption.csproj",
       "msbuildProject": "../Encryption/Encryption.csproj"
@@ -5725,7 +5725,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Cison.Security.Encription >= 1.0.2",
+      "Cison.Security.Encription >= 1.0.3",
       "MSTest.TestAdapter >= 2.1.1",
       "MSTest.TestFramework >= 2.1.1",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
