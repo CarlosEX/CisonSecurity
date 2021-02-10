@@ -1,0 +1,44 @@
+private string GenerateRamdomCombim(int value){
+            var random = new Random();
+            string result = "";
+
+            for(int i = 0; i <= value; i++){
+                int numberRamdom = random.Next(1,9);
+                result += numberRamdom;
+            }
+            return result;
+}
+private string FormatSequenceRandon(){
+            
+            int[] randomSequence = new int[4]{ 1,2,3,4};
+            var random = new Random();
+            int ramdomValue = random.Next(0,4);
+            string text = "";
+
+            for(int i = 0; i <= ramdomValue; i++){
+                text += GenerateRamdomCombim(ramdomValue) + ramdomValue + ".";
+            }
+
+
+            return text;
+        }
+private string Encrypt2(){
+            try
+            {
+                if(IsTextValidate(this.Value)){
+                
+                string textResult = "";
+                int lenghtText = Value.Length - 1;
+
+                for(int i = 0; i <= lenghtText; i++){
+                    textResult +=  ConvertASC.Asc(GetCaracter(i, Value)) + FormatSequenceRandon();
+                }
+                return StractLastCaracter(textResult);
+                }
+            return Value;
+            }
+            catch (System.Exception)
+            {
+                throw;
+            }
+        }

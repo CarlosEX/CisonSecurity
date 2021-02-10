@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cison.Security.Encription</id>
+    <version>1.0.0</version>
+    <authors>Carlos Antonio</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://carlosantoniocison.editorx.io/portifolio</projectUrl>
+    <description>Class for security and encryption</description>
+    <releaseNotes>Version initial with encryption ASC</releaseNotes>
+    <copyright>Carlos Antonio, Cison.NET</copyright>
+    <tags>CisonGenarator</tags>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/bin/Debug/net5.0/Encryption.dll" target="lib/net5.0/Encryption.dll" />
+  </files>
+</package>

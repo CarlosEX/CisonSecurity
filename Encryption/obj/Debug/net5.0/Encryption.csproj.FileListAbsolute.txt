@@ -1,0 +1,12 @@
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/obj/Debug/net5.0/Encryption.csprojAssemblyReference.cache
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/obj/Debug/net5.0/Encryption.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/obj/Debug/net5.0/Encryption.AssemblyInfoInputs.cache
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/obj/Debug/net5.0/Encryption.AssemblyInfo.cs
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/obj/Debug/net5.0/Encryption.csproj.CoreCompileInputs.cache
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/bin/Debug/net5.0/Encryption.deps.json
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/bin/Debug/net5.0/Encryption.dll
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/bin/Debug/net5.0/ref/Encryption.dll
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/bin/Debug/net5.0/Encryption.pdb
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/obj/Debug/net5.0/Encryption.dll
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/obj/Debug/net5.0/ref/Encryption.dll
+/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/obj/Debug/net5.0/Encryption.pdb

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Cison.Security.Encription</PackageId>
+    <Authors>Carlos Antonio</Authors>
+    <Company>Cison .NET</Company>
+    <Product>Cison Security</Product>
+    <Version>1.0.3</Version>
+    <Description>Class for security and encryption</Description>
+    <PackageReleaseNotes>Refatoring function ASC</PackageReleaseNotes>
+    <Copyright>Carlos Antonio, Cison.NET</Copyright>
+    <PackageProjectUrl>https://carlosantoniocison.editorx.io/portifolio</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageTags>CisonGenarator</PackageTags>
+    <NeutralLanguage></NeutralLanguage>
+  </PropertyGroup>
+
+</Project>

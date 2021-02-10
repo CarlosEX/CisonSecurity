@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleExample/1.0.0": {
+        "dependencies": {
+          "Cison.Security.Encription": "1.0.3"
+        },
+        "runtime": {
+          "ConsoleExample.dll": {}
+        }
+      },
+      "Cison.Security.Encription/1.0.3": {
+        "runtime": {
+          "Encryption.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cison.Security.Encription/1.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
