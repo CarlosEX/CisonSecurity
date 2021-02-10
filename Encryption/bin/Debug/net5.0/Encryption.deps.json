@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Encryption/1.0.3": {
+      "Encryption/1.0.4": {
         "runtime": {
           "Encryption.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Encryption/1.0.3": {
+    "Encryption/1.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

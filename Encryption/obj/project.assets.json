@@ -11,7 +11,7 @@
     "/home/carlosantonio/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "restore": {
       "projectUniqueName": "/home/carlosantonio/Documents/Tecnologia/DotNet/LibraryC#/CisonSecurity/Encryption/Encryption.csproj",
       "projectName": "Cison.Security.Encription",
